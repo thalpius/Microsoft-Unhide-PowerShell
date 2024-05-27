@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> "This repo is now in 'Blue Screen' mode—archived and frozen in time!"
+
 # Unhide PowerShell
 
 PowerShell supports a command line parameter “WindowStyle” as shown below. The parameter “WindowStyle” sets the window style for that session. Valid values are Normal, Minimized, Maximized and Hidden.
